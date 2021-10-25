@@ -1,4 +1,4 @@
-import TeamMember from "./TeamMember"
+import TeamMember from '../../components/Team/TeamMember';
 
 const Team = ()=>{
     return(
